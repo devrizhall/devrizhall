@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Ahmed
-- 👀 I’m interested in fullstack development and robotics!
+- 👀 I’m interested in fullstack development, Java backend, and robotics!
 - 🌱 I’m currently learning for my Azure 900 certificate.
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me ...
